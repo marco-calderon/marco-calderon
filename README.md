@@ -1,6 +1,4 @@
-# I'm Marco Calderon
-
-🚀 Full-stack Developer  
+![github-header-image](https://github.com/user-attachments/assets/b636a279-2b06-42d3-a4b4-1d1e10315f31)
 
 ## 💡 About Me
 
