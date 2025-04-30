@@ -42,7 +42,7 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
 **DevOps & Infra:**
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
