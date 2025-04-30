@@ -6,8 +6,6 @@ I'm a seasoned Full-stack Developer with 10+ years of experience crafting scalab
 
 Lately, I’ve been diving deep into AI and NLP, building a **conversational travel assistant** that helps users plan personalized trips — combining smart tech with real-world usability.
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -45,8 +43,6 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
 ## Current Project
 
 **Conversational Travel Assistant**
@@ -54,24 +50,16 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 > Working on route optimization, budget-aware suggestions, and personalized help for your next endeavour.
 
----
-
 ## 📌 Pinned Projects
 
 - 🔗 [Travel Assistant Chatbot](https://github.com/your-username/project8-travel-bot): Conversational AI for real-time trip planning.
-
----
 
 ## 📊 GitHub Stats
 
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-calderon&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-calderon&layout=compact&theme=dark)
 
----
-
 ## 📫 Let's Connect
 
 - 💻 [Portfolio](https://marcocalderon.dev)
-
----
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/mcalderondev/)
