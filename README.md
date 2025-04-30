@@ -64,8 +64,8 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 ## 📊 GitHub Stats
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-calderon&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-calderon&layout=compact&theme=radical)
 
 ---
 
