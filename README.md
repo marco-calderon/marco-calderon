@@ -1,4 +1,4 @@
-# Marco Calderon | Full Stack Web Developer
+<h1 style="width: 100%; text-align: center;">Marco Calderon | Full Stack Web Developer</p>
 
 ## 💡 About Me
 
