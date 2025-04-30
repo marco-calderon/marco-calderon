@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/e1d73abe-fb2c-45ed-b730-8b3da6e68267)
+# Marco Calderon | Full Stack Web Developer
 
 ## 💡 About Me
 
