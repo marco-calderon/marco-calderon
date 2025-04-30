@@ -1,8 +1,6 @@
 # I'm Marco Calderon
 
-🚀 Full-stack Developer
-
----
+🚀 Full-stack Developer  
 
 ## 💡 About Me
 
@@ -14,36 +12,60 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
+</p>
 
-**Backend:**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+**Backend:**
+<p>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+</p>
 
-**AI & Tools:**  
-![Groq](https://img.shields.io/badge/-GroqCloud-black?logo=data:image/svg+xml;base64,<base64-encoded-groq-icon>)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-blueviolet)
+**AI & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-blueviolet" />
+</p>
 
-**Auth & APIs:**  
-![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-black?logo=auth0&logoColor=white)  
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+**Auth & APIs:**
+<p>
+  <img src="https://img.shields.io/badge/-NextAuth.js-black?logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**DevOps & Infra:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**DevOps & Infra:**
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 ## 🧠 Current Project
 
-🌍 **Project 8 — Conversational Travel Assistant**  
+🌍 **Project 8 — Conversational Travel Assistant**  \
 A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud and OpenAI, built with Django + Next.js. Think ChatGPT meets Lonely Planet.
 
 > 🧪 Working on route optimization, budget-aware suggestions, and voice interaction.
+
+---
+
+## 📌 Pinned Projects
+
+- 🔗 [Travel Assistant Chatbot](https://github.com/your-username/project8-travel-bot): Conversational AI for real-time trip planning.
+- 🗂️ [Django + Next.js Starter Kit](https://github.com/your-username/django-next-starter): Full-stack boilerplate with authentication and JWT setup.
+- 🧩 [LangChain Integration Examples](https://github.com/your-username/langchain-playground): Mini projects exploring LangChain capabilities.
+
+---
+
+## 📊 GitHub Stats
+
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
@@ -51,9 +73,9 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 💻 [Portfolio](https://your-portfolio.com)
-- ✉️ your.email@example.com
+- ✉️ [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-_Thanks for stopping by! Always up for a great conversation about tech, AI, or your next big idea._
+*Thanks for stopping by! Always up for a great conversation about tech, AI, or your next big idea.*
 
