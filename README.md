@@ -47,27 +47,25 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
 
 ---
 
-## 🧠 Current Project
+## Current Project
 
-🌍 **Project 8 — Conversational Travel Assistant**  \
-A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud and OpenAI, built with Django + Next.js. Think ChatGPT meets Lonely Planet.
+**Conversational Travel Assistant**
+A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud and built with Django + Next.js. Think ChatGPT meets Lonely Planet.
 
-> 🧪 Working on route optimization, budget-aware suggestions, and voice interaction.
+> Working on route optimization, budget-aware suggestions, and personalized help for your next endeavour.
 
 ---
 
 ## 📌 Pinned Projects
 
 - 🔗 [Travel Assistant Chatbot](https://github.com/your-username/project8-travel-bot): Conversational AI for real-time trip planning.
-- 🗂️ [Django + Next.js Starter Kit](https://github.com/your-username/django-next-starter): Full-stack boilerplate with authentication and JWT setup.
-- 🧩 [LangChain Integration Examples](https://github.com/your-username/langchain-playground): Mini projects exploring LangChain capabilities.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-calderon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-calderon&layout=compact&theme=radical)
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-calderon&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-calderon&layout=compact&theme=dark)
 
 ---
 
