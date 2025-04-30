@@ -15,19 +15,22 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
 **Frontend:**
 <p>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Vue-41b883?logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-c3002f?logo=angular&logoColor=white" />
 </p>
 
 **Backend:**
 <p>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-4584b6?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nest.js-c3002f?logo=nest.js&logoColor=white" />
 </p>
 
 **AI & Tools:**
 <p>
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-blueviolet" />
 </p>
 
 **Auth & APIs:**
@@ -39,6 +42,7 @@ Lately, I’ve been diving deep into AI and NLP, building a **conversational tra
 **DevOps & Infra:**
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
@@ -71,11 +75,7 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [Portfolio](https://your-portfolio.com)
-- ✉️ [your.email@example.com](mailto:your.email@example.com)
+- 💻 [Portfolio](https://marcocalderon.dev)
 
 ---
-
-*Thanks for stopping by! Always up for a great conversation about tech, AI, or your next big idea.*
 
