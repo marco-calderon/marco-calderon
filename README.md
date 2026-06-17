@@ -52,10 +52,6 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 - Travel Assistant Chatbot: Conversational AI for real-time trip planning.
 
-## 📊 GitHub Stats
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-calderon&layout=compact&theme=dark)
-
 ## 📫 Let's Connect
 
 - 💻 [Portfolio](https://marcocalderon.dev)
