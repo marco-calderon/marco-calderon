@@ -50,7 +50,7 @@ A dynamic chatbot that helps users plan trips in real time, powered by GroqCloud
 
 ## 📌 Pinned Projects
 
-- Travel Assistant Chatbot: Conversational AI for real-time trip planning.
+- Travel Assistant Chatbot: Conversational AI for real-time travel planning.
 
 ## 📫 Let's Connect
 
